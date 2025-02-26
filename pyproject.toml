@@ -1,7 +1,7 @@
 [project]
 name = "mcp-weather-service"
 version = "0.1.0"
-description = "An MCP server that fetches weather alerts and forecast data from the National Weather Service."
+description = "An MCP server that fetches weather alerts and forecast data from the U.S. National Weather Service API."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
